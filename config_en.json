@@ -681,7 +681,7 @@
       "hMargin":6.0,
       "vMargin":0.0,
       "isSnapping":false,
-      "cardDesign":"simple",
+      "cardDesign":"two_columns",
       "enableAutoSliding":false,
       "imageBorder":3.0,
       "include":[],
