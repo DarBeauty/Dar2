@@ -4,7 +4,7 @@
     "OMR": 1.0,
     "USD": 2.6,
     "SAR": 9.75,
-    "AED": 9.55,
+    "AED": 19.55,
     "KWD": 0.8,
     "BHD": 0.98,
     "QAR": 9.5,
@@ -14,7 +14,7 @@
     {
       "font":"Tajawal",
       "type":"rotate",
-      "title":"شحن مجاني للطلبات فوق 24 ريال",
+      "title":"شحن مجاني للطلبات فوق 25 ريال",
       "height":30,
       "layout":"header_text",
       "rotate":[],
