@@ -1,9 +1,20 @@
 {
+  "DefaultCurrency": "OMR",
+  "CurrencyRate": {
+    "OMR": 1.0,
+    "USD": 2.6,
+    "SAR": 9.75,
+    "AED": 9.55,
+    "KWD": 0.8,
+    "BHD": 0.98,
+    "QAR": 9.5,
+    "EUR": 2.38
+  },
   "HorizonLayout":[
     {
       "font":"Tajawal",
       "type":"rotate",
-      "title":"شحن مجاني للطلبات فوق 25 ريال",
+      "title":"شحن مجاني للطلبات فوق 24 ريال",
       "height":30,
       "layout":"header_text",
       "rotate":[],
@@ -768,7 +779,7 @@
       "colorCart":"ff000000",
       "colorIcon":null,
       "colorActiveIcon":null,
-      "iconSize":20.0,
+      "iconSize":18.0,
       "indicatorStyle":"none",
       "showFloatingClip":true,
       "showFloating":false,
@@ -893,7 +904,9 @@
         "enable":false,
         "height":200,
         "canDrag":true,
-        "canClose":true}}
+        "canClose":true
+      }
+    }
   },
   "TabBar":[
     {
@@ -1320,4 +1333,4 @@
     "availability":"",
     "outOfStock":"نفذ من المخزون",
     "bySignup":"بالتسجيل، فإنك توافق على "}
-  }
+}
