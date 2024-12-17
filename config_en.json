@@ -1,4 +1,15 @@
 {
+  "DefaultCurrency": "OMR",
+  "CurrencyRate": {
+    "OMR": 1.0,
+    "USD": 2.6,
+    "SAR": 9.75,
+    "AED": 9.55,
+    "KWD": 0.8,
+    "BHD": 0.98,
+    "QAR": 9.5,
+    "EUR": 2.38
+  },
   "HorizonLayout":[
     {
       "font":"Tajawal",
@@ -681,7 +692,7 @@
       "hMargin":6.0,
       "vMargin":0.0,
       "isSnapping":false,
-      "cardDesign":"two_columns",
+      "cardDesign":"simple",
       "enableAutoSliding":false,
       "imageBorder":3.0,
       "include":[],
@@ -1298,6 +1309,14 @@
     "backgroundColor":"ff000000",
     "backgroundImage":null
   },
+  "overrideTranslation":{
+    "sale":"Sale {percent} ٪",
+    "aboutUs":"About Us",
+    "@@locale":"en",
+    "checkout":"Checkout",
+    "generalSetting":"Account",
+    "availability":"",
+    "outOfStock":"Out of Stock"},
   "overrideTranslation":{
     "sale":"Sale {percent} ٪",
     "aboutUs":"About Us",
