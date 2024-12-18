@@ -1325,7 +1325,7 @@
     "backgroundImage":null
   },
   "overrideTranslation":{
-    "sale":"خصم {percent} ٪",
+    "sale":"خصم {percent}٪",
     "aboutUs":"من نحن",
     "@@locale":"ar",
     "checkout":"تأكيد الشراء",
