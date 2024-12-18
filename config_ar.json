@@ -1322,15 +1322,5 @@
         "buttonAlignment":"centerLeft"}
     },
     "backgroundColor":"ff000000",
-    "backgroundImage":null
-  },
-  "overrideTranslation":{
-    "sale":"خصم {percent}٪",
-    "aboutUs":"من نحن",
-    "@@locale":"ar",
-    "checkout":"تأكيد الشراء",
-    "generalSetting":"الحساب",
-    "availability":"",
-    "outOfStock":"نفذ من المخزون",
-    "bySignup":"بالتسجيل، فإنك توافق على "}
+    "backgroundImage":null}
 }
