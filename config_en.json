@@ -1143,7 +1143,7 @@
     "elevation":0,
     "expandedItems":[],
     "showOnScreens":["home"],
-    "alwaysShowAppBar":false
+    "alwaysShowAppBar":true
   },
   "Drawer":{
     "logo":"https://trello.com/1/cards/672a33dbbdcc2bf16f01f563/attachments/6731033fdcd6c124f24e2cbe/download/D_Icone_B-logo.jpg",
