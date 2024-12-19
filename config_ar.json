@@ -632,8 +632,8 @@
       "preview_data":false
     },
     {
-      "name":"شوهدت مؤخراً",
-      "layout":"recentView",
+"name":"شوهدت مؤخراً",
+"layout":"recentView",
 "isSnapping":false,
 "image":"",
 "borderRadius":3.0,
@@ -676,8 +676,7 @@
 "enableAutoSliding":false,
 "key":"xOVngNnUfukivxEzHqlTfw",
 "isBulk":null,
-"isPreviewing":null,
-"preview_data":false
+"isPreviewing":null
 },
     {
       "layout":"blog",
