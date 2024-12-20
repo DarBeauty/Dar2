@@ -38,7 +38,9 @@
       "backgroundColor":"ff000000",
       "usePrimaryColor":true,
       "enableBackground":false,
-      "backgroundGradientColor":[]
+      "backgroundGradientColor":[],
+      "conditionalDisplay": {
+        "currency": "OMR"
     },
     {
       "layout":"logo",
