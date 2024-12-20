@@ -34,6 +34,7 @@
       "textOpacity":1,
       "marginBottom":0,
       "paddingRight":0,
+      "preview_data":false,
       "paddingBottom":0,
       "backgroundColor":"ff000000",
       "usePrimaryColor":true,
