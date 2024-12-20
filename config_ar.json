@@ -1,6 +1,6 @@
 {
   "DefaultCurrency": "OMR",
-  "CurrencyRate": {
+  "currencyRate": {
     "OMR": 1.0,
     "USD": 2.6,
     "SAR": 9.75,
