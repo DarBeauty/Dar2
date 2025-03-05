@@ -898,6 +898,13 @@
         "canDrag":true,
         "canClose":true}}
   },
+
+    "ProductColors":{
+      "LC01":"FFEEC491",
+      "LC02":"FFECC19F",
+      "LC03":"FFF1C590",
+      "LC04":"FFDBAC8A"}
+  },
   "TabBar":[
     {
       "key":"qfnFsqOKcQ",
