@@ -903,7 +903,15 @@
     "LC01":"FFEEC491",
     "LC02":"FFECC19F",
     "LC03":"FFF1C590",
-    "LC04":"FFDBAC8A"
+    "LC04":"FFDBAC8A",
+    "BP01":"FFD6AB7C",
+    "BP02":"FFCDA373",
+    "BP03":"FFB88A5F",
+    "BP04":"FFB28055",
+    "BP001":"FFD7BEA8",
+    "BP002":"FFDBBBAE",
+    "BP003":"FFCEBDA3",
+    "BP004":"FFCAB69D"
   },
 
   "TabBar":[
