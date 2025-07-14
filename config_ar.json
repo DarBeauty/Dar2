@@ -906,12 +906,14 @@
     "LC02":"FFECC19F",
     "LC03":"FFF1C590",
     "LC04":"FFDBAC8A",
-    "BP03":"B88A5F",
-    "BP04":"B28055",
-    "BP001":"d7bea8",
-    "BP002":"dbbbae",
-    "BP003":"cebda3",
-    "BP004":"cab69d"
+    "BP01":"FFD6AB7C",
+    "BP02":"FFCDA373",
+    "BP03":"FFB88A5F",
+    "BP04":"FFB28055",
+    "BP001":"FFD7BEA8",
+    "BP002":"FFDBBBAE",
+    "BP003":"FFCEBDA3",
+    "BP004":"FFCAB69D"
   },
 
   "TabBar":[
