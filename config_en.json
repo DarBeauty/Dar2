@@ -721,7 +721,7 @@
             "enableBackward":false}
         },
         {
-          "image":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671f1fda330bebf8b2da54a1/download/output_twitter_icon.svg",
+          "image":"assets/icons/brands/twitter.svg",
           "width":20,
           "height":20,
           "borderRadius":2,
@@ -737,7 +737,7 @@
             "enableBackward":false}
         },
         {
-          "image":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671f1fe62a8b676eda062fe4/download/output_facebook_icon.svg",
+          "image":"assets/icons/brands/facebook.svg",
           "width":20,
           "height":20,
           "borderRadius":2,
