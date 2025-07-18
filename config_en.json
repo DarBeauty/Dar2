@@ -705,7 +705,7 @@
       "enableBackground":false,
       "items":[
         {
-          "image":"https://trello.com/1/cards/671b7456b6447161ab8ed0cf/attachments/671f1efd1eea431df5e12d7d/download/output_instagram_icon.svg",
+          "image":"assets/icons/brands/instagram.svg",
           "width":20,
           "height":20,
           "borderRadius":2,
