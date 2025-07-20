@@ -27,7 +27,7 @@
       "paddingBottom":0,
       "backgroundColor":"ff000000",
       "usePrimaryColor":true,
-      "enableBackground":true,
+      "enableBackground":false,
       "backgroundGradientColor":[]
     },
     {
