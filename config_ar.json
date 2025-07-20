@@ -408,6 +408,7 @@
     {
       "font":"Tajawal",
       "type":"static",
+      "backgroundColor":"03FFFFFF",
       "title":"الماركات الأكثر شعبية",
       "height":43,
       "layout":"header_text",
@@ -431,7 +432,7 @@
       "paddingBottom":0,
       "usePrimaryColor":true,
       "enableBackground":false,
-      "backgroundGradientColor":0x00FFFFFF
+      "backgroundGradientColor":[]
     },
     {
       "type":"icon",
