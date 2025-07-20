@@ -430,7 +430,7 @@
       "paddingRight":15,
       "preview_data":false,
       "paddingBottom":0,
-      "usePrimaryColor":true,
+      "usePrimaryColor":false,
       "enableBackground":false,
       "backgroundGradientColor":[]
     },
