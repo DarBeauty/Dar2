@@ -11,7 +11,7 @@
       "minWidth":0,
       "alignment":"center",
       "marginTop":0,
-      "textColor":"",
+      "textColor":"ffffffff",
       "fontWeight":400,
       "isSafeArea":false,
       "marginLeft":0,
@@ -25,7 +25,7 @@
       "paddingRight":0,
       "preview_data":false,
       "paddingBottom":0,
-      "backgroundColor":"",
+      "backgroundColor":"ff000000",
       "usePrimaryColor":true,
       "enableBackground":false,
       "backgroundGradientColor":[]
