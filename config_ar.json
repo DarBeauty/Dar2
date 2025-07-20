@@ -431,7 +431,7 @@
       "preview_data":false,
       "paddingBottom":0,
       "usePrimaryColor":false,
-      "enableBackground":false,
+      "enableBackground":true,
       "backgroundGradientColor":[]
     },
     {
