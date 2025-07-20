@@ -431,7 +431,7 @@
       "paddingBottom":0,
       "usePrimaryColor":true,
       "enableBackground":false,
-      "backgroundGradientColor":[]
+      "backgroundGradientColor":0x00FFFFFF
     },
     {
       "type":"icon",
