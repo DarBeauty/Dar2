@@ -27,7 +27,7 @@
       "paddingBottom":0,
       "backgroundColor":"ff000000",
       "usePrimaryColor":true,
-      "enableBackground":false,
+      "enableBackground":true,
       "backgroundGradientColor":[]
     },
     {
@@ -429,7 +429,7 @@
       "paddingRight":15,
       "preview_data":false,
       "paddingBottom":0,
-      "usePrimaryColor":true,
+      "usePrimaryColor":false,
       "enableBackground":false,
       "backgroundGradientColor":[]
     },
