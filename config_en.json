@@ -1177,8 +1177,9 @@
         "paddingRight":0,
         "paddingBottom":0,
         "headerFontSize":16,
-        "backgroundColor":"ff000000",
-        "headerTextColor":"ffffffff",
+        "backgroundColor":"",
+        "headerTextColor":"",
+        "usePrimaryColor": true,
         "headerFontWeight":"400",
         "headerTextOpacity":1
       }
