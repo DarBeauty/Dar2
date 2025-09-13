@@ -966,11 +966,11 @@
       "defaultTab":true,
       "categoryLayout": "sideMenuWithSub",
       "categories": [
-        "gid://shopify/Collection/266316316752"
+        "gid://shopify/Collection/275392168016"
       ],
       "remapCategories": [
         {
-          "parent": "gid://shopify/Collection/266316316752",
+          "parent": "gid://shopify/Collection/275392168016",
           "categories": [
             "gid://shopify/Collection/261325062224",
             "gid://shopify/Collection/261325029456",
@@ -1003,7 +1003,7 @@
         "gid://shopify/Collection/169582166096",
         "gid://shopify/Collection/169582559312",
         "gid://shopify/Collection/169582624848",
-        "gid://shopify/Collection/266316316752",
+        "gid://shopify/Collection/275392168016",
         "gid://shopify/Collection/169582723152",
         "gid://shopify/Collection/263133790288",
         "gid://shopify/Collection/267868045392"
@@ -1022,7 +1022,7 @@
           "parent": null
         },
         {
-          "category": "gid://shopify/Collection/266316316752",
+          "category": "gid://shopify/Collection/275392168016",
           "parent": null
         },
         {
@@ -1039,19 +1039,19 @@
         },
         {
           "category": "gid://shopify/Collection/261325062224",
-          "parent": "gid://shopify/Collection/266316316752"
+          "parent": "gid://shopify/Collection/275392168016"
         },
         {
           "category": "gid://shopify/Collection/261325029456",
-          "parent": "gid://shopify/Collection/266316316752"
+          "parent": "gid://shopify/Collection/275392168016"
         },
         {
           "category": "gid://shopify/Collection/261325127760",
-          "parent": "gid://shopify/Collection/266316316752"
+          "parent": "gid://shopify/Collection/275392168016"
         },
         {
           "category": "gid://shopify/Collection/261323259984",
-          "parent": "gid://shopify/Collection/266316316752"
+          "parent": "gid://shopify/Collection/275392168016"
         }
       ],
       "parallax":false,
