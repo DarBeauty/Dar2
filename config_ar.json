@@ -1389,6 +1389,18 @@
         "iconFontFamily":"MaterialIcons",
         "buttonAlignment":"centerLeft"
       },
+      "category-vRTsxAdtng":{
+        "id":"web-12",
+        "icon":"whatshot",
+        "title":"العروض",
+        "buttons":[],
+        "category":"gid://shopify/Collection/262614155344",
+        "bannerHeight":15,
+        "useTabScreen":false,
+        "enableBackward":true,
+        "iconFontFamily":"MaterialIcons",
+        "buttonAlignment":"centerLeft"}
+    },
     "backgroundColor":"ff000000",
     "backgroundImage":null
      }
